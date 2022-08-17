@@ -1,7 +1,7 @@
 - 👋 Hallo, ich bin Noel und bin 17 Jahre alt. Ich bin kein Student, sondern mache zur Zeit meinen Realschulabschluss
 - 👀 Ich interessieren mich brennend rund um das Thema It-Sicherheit
 - 🌱 Ich versuche gerade mir HTML, CSS und Python bei zu bringen 
-- 💞️ Ich suche Leute die mir beim lernen helfen können und am besten das selbe interesse teilen wie ich.
+- 💞️ Ich suche Leute die mir beim lernen helfen können und am besten das selbe interesse teilen wie ich. Und weil ich ganz neu hier auf Github bin, wäre es natürlich von Vorteil, wenn mir jemand alles wichtige hier zeigen könnte
 - 📫 Man kann mich unter dieser E-mail Adresse erreichen: mahlernoel123@web.de
 
 <!---
